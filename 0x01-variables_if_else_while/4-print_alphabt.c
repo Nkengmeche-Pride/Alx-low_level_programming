@@ -6,7 +6,6 @@
  *
  *    * Return: Always 0 (success)
  */
-
 int main(void)
 {
 	int lw = 'a';
@@ -21,7 +20,6 @@ int main(void)
 		else
 		{
 			putchar(lw);
-
 			lw += 1;
 		}
 	}
