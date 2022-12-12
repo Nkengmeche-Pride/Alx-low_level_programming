@@ -1,11 +1,6 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
-
-
-
 /**
  *
  *  * main - assign a random number to the variable n each time it is executed
@@ -18,15 +13,10 @@
  *
  *      */
 
-
-
 int main(void)
 
 {
-
 	int n;
-
-
 
 	srand(time(0));
 
