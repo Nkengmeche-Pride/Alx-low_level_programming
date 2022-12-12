@@ -1,6 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/**
+ *   * main - Description if the number is greater than 0: is positive, if the number is 0: is zero
+ *
+ *     * Return: Always 0 (success)
+ */
 
 int main(void)
 
