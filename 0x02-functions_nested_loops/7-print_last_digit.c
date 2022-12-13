@@ -2,9 +2,7 @@
 
 /**
  * print_last_digit - A program that prints the last digit of a number
- *
  * @n: input number as an integer.
- *
  * Return: last digit.
  */
 
