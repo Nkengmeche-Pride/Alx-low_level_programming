@@ -23,7 +23,7 @@ int main(void)
 	num1 = num2;
 	num2 = fn;
 	}
-	else 
+	else
 	{
 	if (boolean1)
 	{
